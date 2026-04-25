@@ -1,0 +1,7 @@
+id,name,age,city,signup_date,active
+1,Pavani,22,Bangalore,2024-01-15,true
+2,Rahul,28,Hyderabad,2023-11-20,true
+3,Priya,24,Chennai,2024-03-10,false
+4,Amit,30,Bangalore,2023-08-05,true
+5,Sneha,26,Mumbai,2024-02-28,true
+6,Vikram,29,Bangalore,2023-12-01,false
